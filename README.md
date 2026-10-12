@@ -1,6 +1,5 @@
 # Restaumenu 🍔🍕🍹
 
-![DigiDish](https://res.cloudinary.com/dewy2csvc/image/upload/v1689628008/DigiText_zfdjoh.svg)
 
 Welcome to Restaumenu - Your Digital Menu Solution! 🚀
 
